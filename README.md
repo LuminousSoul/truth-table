@@ -36,7 +36,7 @@ B. Output
 
 
 ## Programming Techniques
-- Stack Class in Java
+- Stack Class (LIFO)
 - List
 - Dictionary
 - Arrays
